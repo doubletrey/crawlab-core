@@ -2,11 +2,11 @@ package server
 
 import (
 	"encoding/json"
-	"github.com/crawlab-team/crawlab-core/entity"
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/models"
 	"github.com/crawlab-team/crawlab-grpc"
+	"github.com/doubletrey/crawlab-core/entity"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/models"
 )
 
 func NewModelDelegateBinder(req *grpc.Request) (b *ModelDelegateBinder) {

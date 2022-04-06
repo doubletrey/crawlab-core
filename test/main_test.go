@@ -1,7 +1,7 @@
 package test
 
 //import (
-//	"github.com/crawlab-team/crawlab-core/grpc/test"
+//	"github.com/doubletrey/crawlab-core/grpc/test"
 //	"testing"
 //)
 //

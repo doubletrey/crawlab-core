@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"github.com/crawlab-team/crawlab-core/entity"
-	"github.com/crawlab-team/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/entity"
+	"github.com/doubletrey/crawlab-core/interfaces"
 	"github.com/gin-gonic/gin"
 )
 

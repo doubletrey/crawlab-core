@@ -1,6 +1,6 @@
 package utils
 
-import "github.com/crawlab-team/crawlab-core/constants"
+import "github.com/doubletrey/crawlab-core/constants"
 
 func IsCancellable(status string) bool {
 	switch status {

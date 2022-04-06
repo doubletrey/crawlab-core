@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/crawlab-team/crawlab-core/entity"
+	"github.com/doubletrey/crawlab-core/entity"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 	"net/http"

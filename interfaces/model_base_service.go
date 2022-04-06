@@ -1,7 +1,7 @@
 package interfaces
 
 import (
-	"github.com/crawlab-team/crawlab-db/mongo"
+	"github.com/doubletrey/crawlab-db/mongo"
 	"github.com/emirpasic/gods/lists/arraylist"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/delegate"
-	"github.com/crawlab-team/crawlab-core/models/models"
-	"github.com/crawlab-team/crawlab-core/models/service"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/delegate"
+	"github.com/doubletrey/crawlab-core/models/models"
+	"github.com/doubletrey/crawlab-core/models/service"
 	"github.com/gin-gonic/gin"
 )
 

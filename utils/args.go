@@ -1,6 +1,6 @@
 package utils
 
-import "github.com/crawlab-team/crawlab-core/interfaces"
+import "github.com/doubletrey/crawlab-core/interfaces"
 
 func GetUserFromArgs(args ...interface{}) (u interfaces.User) {
 	for _, arg := range args {

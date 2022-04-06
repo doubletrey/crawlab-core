@@ -1,6 +1,6 @@
 package i18n
 
-import "github.com/crawlab-team/crawlab-core/interfaces"
+import "github.com/doubletrey/crawlab-core/interfaces"
 
 var translations []interfaces.Translation
 

@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/service"
-	"github.com/crawlab-team/crawlab-core/stats"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/service"
+	"github.com/doubletrey/crawlab-core/stats"
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.uber.org/dig"

@@ -2,10 +2,10 @@ package server
 
 import (
 	"encoding/json"
-	"github.com/crawlab-team/crawlab-core/entity"
-	"github.com/crawlab-team/crawlab-core/interfaces"
 	"github.com/crawlab-team/crawlab-grpc"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/entity"
+	"github.com/doubletrey/crawlab-core/interfaces"
 )
 
 func NewModelBaseServiceBinder(req *grpc.Request) (b *ModelBaseServiceBinder) {

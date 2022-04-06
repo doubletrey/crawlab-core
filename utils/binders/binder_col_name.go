@@ -1,8 +1,8 @@
 package binders
 
 import (
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/interfaces"
 )
 
 func NewColNameBinder(id interfaces.ModelId) (b *ColNameBinder) {

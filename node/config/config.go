@@ -1,9 +1,9 @@
 package config
 
 import (
-	"github.com/crawlab-team/crawlab-core/constants"
-	"github.com/crawlab-team/crawlab-core/entity"
-	"github.com/crawlab-team/crawlab-core/utils"
+	"github.com/doubletrey/crawlab-core/constants"
+	"github.com/doubletrey/crawlab-core/entity"
+	"github.com/doubletrey/crawlab-core/utils"
 	"github.com/spf13/viper"
 )
 

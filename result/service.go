@@ -2,11 +2,11 @@ package result
 
 import (
 	"fmt"
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/models"
-	"github.com/crawlab-team/crawlab-core/models/service"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/models"
+	"github.com/doubletrey/crawlab-core/models/service"
 	"sync"
 )
 

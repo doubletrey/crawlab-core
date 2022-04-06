@@ -10,7 +10,7 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 	"fmt"
-	"github.com/crawlab-team/crawlab-core/constants"
+	"github.com/doubletrey/crawlab-core/constants"
 	"io"
 )
 

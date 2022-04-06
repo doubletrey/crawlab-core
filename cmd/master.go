@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/crawlab-team/crawlab-core/apps"
+	"github.com/doubletrey/crawlab-core/apps"
 	"github.com/spf13/cobra"
 )
 

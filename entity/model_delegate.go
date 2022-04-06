@@ -1,6 +1,6 @@
 package entity
 
-import "github.com/crawlab-team/crawlab-core/interfaces"
+import "github.com/doubletrey/crawlab-core/interfaces"
 
 type ModelDelegate struct {
 	Id       interfaces.ModelId       `json:"id"`

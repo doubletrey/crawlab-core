@@ -1,12 +1,12 @@
 package controllers
 
 import (
-	"github.com/crawlab-team/crawlab-core/config"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/delegate"
-	"github.com/crawlab-team/crawlab-core/models/models"
-	"github.com/crawlab-team/crawlab-core/models/service"
-	"github.com/crawlab-team/crawlab-core/schedule"
+	"github.com/doubletrey/crawlab-core/config"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/delegate"
+	"github.com/doubletrey/crawlab-core/models/models"
+	"github.com/doubletrey/crawlab-core/models/service"
+	"github.com/doubletrey/crawlab-core/schedule"
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

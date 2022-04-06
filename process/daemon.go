@@ -2,10 +2,10 @@ package process
 
 import (
 	"github.com/apex/log"
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/sys_exec"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/sys_exec"
 	"math/rand"
 	"os/exec"
 	"time"

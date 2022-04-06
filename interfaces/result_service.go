@@ -1,7 +1,7 @@
 package interfaces
 
 import (
-	"github.com/crawlab-team/crawlab-db/generic"
+	"github.com/doubletrey/crawlab-db/generic"
 )
 
 type ResultService interface {

@@ -1,9 +1,9 @@
 package apps
 
 import (
-	"github.com/crawlab-team/crawlab-core/config"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/node/service"
+	"github.com/doubletrey/crawlab-core/config"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/node/service"
 	"go.uber.org/dig"
 )
 

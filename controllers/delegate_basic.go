@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	delegate2 "github.com/crawlab-team/crawlab-core/models/delegate"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	delegate2 "github.com/doubletrey/crawlab-core/models/delegate"
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	mongo2 "go.mongodb.org/mongo-driver/mongo"

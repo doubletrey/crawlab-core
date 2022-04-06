@@ -1,10 +1,10 @@
 package middlewares
 
 import (
-	"github.com/crawlab-team/crawlab-core/constants"
-	"github.com/crawlab-team/crawlab-core/controllers"
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/user"
+	"github.com/doubletrey/crawlab-core/constants"
+	"github.com/doubletrey/crawlab-core/controllers"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/user"
 	"github.com/gin-gonic/gin"
 )
 

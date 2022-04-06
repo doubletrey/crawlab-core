@@ -1,9 +1,9 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-core/fs"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/node/test"
+	"github.com/doubletrey/crawlab-core/fs"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/node/test"
 	"os"
 	"testing"
 	"time"

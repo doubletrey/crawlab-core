@@ -2,10 +2,10 @@ package test
 
 import (
 	"fmt"
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/fs"
-	"github.com/crawlab-team/crawlab-core/interfaces"
 	vcs "github.com/crawlab-team/crawlab-vcs"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/fs"
+	"github.com/doubletrey/crawlab-core/interfaces"
 	"github.com/stretchr/testify/require"
 	"io/ioutil"
 	"path"

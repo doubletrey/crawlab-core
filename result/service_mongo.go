@@ -1,13 +1,13 @@
 package result
 
 import (
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/models"
-	"github.com/crawlab-team/crawlab-core/models/service"
-	"github.com/crawlab-team/crawlab-core/utils"
-	"github.com/crawlab-team/crawlab-db/generic"
-	"github.com/crawlab-team/crawlab-db/mongo"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/models"
+	"github.com/doubletrey/crawlab-core/models/service"
+	"github.com/doubletrey/crawlab-core/utils"
+	"github.com/doubletrey/crawlab-db/generic"
+	"github.com/doubletrey/crawlab-db/mongo"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

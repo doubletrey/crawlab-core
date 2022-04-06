@@ -1,15 +1,15 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-core/fs"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/delegate"
-	"github.com/crawlab-team/crawlab-core/models/models"
-	"github.com/crawlab-team/crawlab-core/models/service"
-	ntest "github.com/crawlab-team/crawlab-core/node/test"
-	"github.com/crawlab-team/crawlab-core/spider/admin"
-	"github.com/crawlab-team/crawlab-core/spider/sync"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/fs"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/delegate"
+	"github.com/doubletrey/crawlab-core/models/models"
+	"github.com/doubletrey/crawlab-core/models/service"
+	ntest "github.com/doubletrey/crawlab-core/node/test"
+	"github.com/doubletrey/crawlab-core/spider/admin"
+	"github.com/doubletrey/crawlab-core/spider/sync"
 	"go.uber.org/dig"
 	"os"
 	"testing"

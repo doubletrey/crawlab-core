@@ -2,9 +2,9 @@ package service
 
 import (
 	"context"
-	"github.com/crawlab-team/crawlab-core/color"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-db/mongo"
+	"github.com/doubletrey/crawlab-core/color"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-db/mongo"
 	"go.mongodb.org/mongo-driver/bson"
 	mongo2 "go.mongodb.org/mongo-driver/mongo"
 	"go.uber.org/dig"

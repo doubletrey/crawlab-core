@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/interfaces"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

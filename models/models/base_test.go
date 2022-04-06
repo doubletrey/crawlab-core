@@ -2,7 +2,7 @@ package models_test
 
 import (
 	"context"
-	"github.com/crawlab-team/crawlab-db/mongo"
+	"github.com/doubletrey/crawlab-db/mongo"
 	"go.mongodb.org/mongo-driver/bson"
 	"testing"
 	"time"

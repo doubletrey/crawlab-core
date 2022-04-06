@@ -3,7 +3,7 @@ package controllers
 import (
 	"bufio"
 	"fmt"
-	"github.com/crawlab-team/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/errors"
 	"github.com/gin-gonic/gin"
 	"github.com/imroc/req"
 	"github.com/spf13/viper"

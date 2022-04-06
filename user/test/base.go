@@ -1,9 +1,9 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/service"
-	"github.com/crawlab-team/crawlab-core/user"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/service"
+	"github.com/doubletrey/crawlab-core/user"
 	"go.uber.org/dig"
 	"testing"
 )

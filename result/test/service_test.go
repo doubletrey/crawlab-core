@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-core/models/models"
+	"github.com/doubletrey/crawlab-core/models/models"
 	"github.com/stretchr/testify/require"
 	"go.mongodb.org/mongo-driver/bson"
 	"testing"

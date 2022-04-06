@@ -1,11 +1,11 @@
 package sync
 
 import (
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/node/config"
-	"github.com/crawlab-team/crawlab-core/spider/fs"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/node/config"
+	"github.com/doubletrey/crawlab-core/spider/fs"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.uber.org/dig"
 )

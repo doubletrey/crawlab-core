@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"github.com/crawlab-team/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/interfaces"
 )
 
 type GrpcSubscribe struct {

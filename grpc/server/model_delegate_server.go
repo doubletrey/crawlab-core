@@ -2,10 +2,10 @@ package server
 
 import (
 	"context"
-	"github.com/crawlab-team/crawlab-core/errors"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/delegate"
 	grpc "github.com/crawlab-team/crawlab-grpc"
+	"github.com/doubletrey/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/delegate"
 )
 
 type ModelDelegateServer struct {

@@ -2,7 +2,7 @@ package fs
 
 //import (
 //	"github.com/apex/log"
-//	"github.com/crawlab-team/crawlab-core/models"
+//	"github.com/doubletrey/crawlab-core/models"
 //	"os"
 //	"path"
 //	"runtime/debug"

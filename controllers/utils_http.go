@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"github.com/crawlab-team/crawlab-core/constants"
-	"github.com/crawlab-team/crawlab-core/entity"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/constants"
+	"github.com/doubletrey/crawlab-core/entity"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

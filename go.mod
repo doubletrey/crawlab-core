@@ -1,11 +1,10 @@
-module github.com/crawlab-team/crawlab-core
+module github.com/doubletrey/crawlab-core
 
 go 1.16
 
 require (
 	github.com/apex/log v1.9.0
 	github.com/cenkalti/backoff/v4 v4.1.0
-	github.com/crawlab-team/crawlab-db v0.1.3
 	github.com/crawlab-team/crawlab-fs v0.6.0-beta.20211101.1940
 	github.com/crawlab-team/crawlab-grpc v0.6.0-beta.20211219.1930
 	github.com/crawlab-team/crawlab-log v0.1.0
@@ -13,6 +12,7 @@ require (
 	github.com/crawlab-team/go-trace v0.1.1
 	github.com/crawlab-team/goseaweedfs v0.6.0-beta.20211101.1936
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/doubletrey/crawlab-db v0.1.3-20220406.1825
 	github.com/emirpasic/gods v1.12.0
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/gavv/httpexpect/v2 v2.2.0
@@ -34,7 +34,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/thoas/go-funk v0.9.1
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
-	github.com/wumansgy/goEncrypt v1.0.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	github.com/ztrue/tracerr v0.3.0
 	go.mongodb.org/mongo-driver v1.8.0

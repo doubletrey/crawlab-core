@@ -5,7 +5,7 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/apex/log"
-	"github.com/crawlab-team/crawlab-core/constants"
+	"github.com/doubletrey/crawlab-core/constants"
 	"io"
 	"io/ioutil"
 	"os"

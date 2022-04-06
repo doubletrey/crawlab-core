@@ -3,10 +3,10 @@ package config_spider
 //import (
 //	"errors"
 //	"fmt"
-//	"github.com/crawlab-team/crawlab-core/constants"
-//	"github.com/crawlab-team/crawlab-core/entity"
-//	"github.com/crawlab-team/crawlab-core/models"
-//	"github.com/crawlab-team/crawlab-core/utils"
+//	"github.com/doubletrey/crawlab-core/constants"
+//	"github.com/doubletrey/crawlab-core/entity"
+//	"github.com/doubletrey/crawlab-core/models"
+//	"github.com/doubletrey/crawlab-core/utils"
 //	"path/filepath"
 //)
 //

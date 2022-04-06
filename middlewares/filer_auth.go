@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"github.com/crawlab-team/crawlab-core/controllers"
-	"github.com/crawlab-team/crawlab-core/errors"
+	"github.com/doubletrey/crawlab-core/controllers"
+	"github.com/doubletrey/crawlab-core/errors"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 )

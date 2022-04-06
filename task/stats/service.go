@@ -1,15 +1,15 @@
 package stats
 
 import (
-	config2 "github.com/crawlab-team/crawlab-core/config"
-	"github.com/crawlab-team/crawlab-core/interfaces"
-	"github.com/crawlab-team/crawlab-core/models/service"
-	"github.com/crawlab-team/crawlab-core/node/config"
-	"github.com/crawlab-team/crawlab-core/result"
-	"github.com/crawlab-team/crawlab-core/task"
-	"github.com/crawlab-team/crawlab-db/mongo"
 	clog "github.com/crawlab-team/crawlab-log"
 	"github.com/crawlab-team/go-trace"
+	config2 "github.com/doubletrey/crawlab-core/config"
+	"github.com/doubletrey/crawlab-core/interfaces"
+	"github.com/doubletrey/crawlab-core/models/service"
+	"github.com/doubletrey/crawlab-core/node/config"
+	"github.com/doubletrey/crawlab-core/result"
+	"github.com/doubletrey/crawlab-core/task"
+	"github.com/doubletrey/crawlab-db/mongo"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.uber.org/dig"

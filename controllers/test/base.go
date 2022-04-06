@@ -1,10 +1,10 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-core/controllers"
-	"github.com/crawlab-team/crawlab-core/models/service"
-	"github.com/crawlab-team/crawlab-core/routes"
 	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-core/controllers"
+	"github.com/doubletrey/crawlab-core/models/service"
+	"github.com/doubletrey/crawlab-core/routes"
 	"github.com/gavv/httpexpect/v2"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/require"

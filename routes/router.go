@@ -3,7 +3,7 @@ package routes
 import (
 	"fmt"
 	"github.com/apex/log"
-	"github.com/crawlab-team/crawlab-core/controllers"
+	"github.com/doubletrey/crawlab-core/controllers"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"path"

@@ -1,6 +1,6 @@
 package client
 
-import "github.com/crawlab-team/crawlab-core/interfaces"
+import "github.com/doubletrey/crawlab-core/interfaces"
 
 type ModelDelegateOption func(delegate interfaces.GrpcClientModelDelegate)
 
